@@ -18,7 +18,6 @@ Sou estudante de Ciência da Computação e estudo na Cesar School, estou no pri
 - 📧 Email de trabalho: barlf@cesar.school
 - 📧 Email pessoal: bruno.filho1000@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/bruno-augusto-376946355/)
-- 🌐 [Portfólio](https://seuportfolio.com)
 
 ---
 
