@@ -3,7 +3,7 @@
 # 👋 Olá! Eu sou Bruno Augusto da Rocha Leite Filho
 
 ## 💻 Sobre mim
-Sou estudante de Ciência da Computação e estudo na Cesar School, estou no primeiro período e já desenvolvi diversas habilidades relacionadas com liderança e programação.
+Sou estudante de Ciência da Computação e estudo na Cesar School, estou no segundo período e já desenvolvi diversas habilidades relacionadas com liderança e programação.
 
 - 📖 Estudando Python, JavaScript, HTML, CSS e Arduino.
 - 💡 Interessado em projetos de acessibilidade e tecnologia assistiva.
