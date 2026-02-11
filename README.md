@@ -5,12 +5,11 @@
 ## 💻 Sobre mim
 Sou estudante de Ciência da Computação e estudo na Cesar School, estou no segundo período e já desenvolvi diversas habilidades relacionadas com liderança e programação.
 
-- 📖 Estudando Python, JavaScript, HTML, CSS e Arduino.
 - 💡 Interessado em projetos de acessibilidade e tecnologia assistiva.
 
 ## 🚀 Minhas Conquistas
-- 🧠 Domínio sólido dos fundamentos de **Python**, **C** e **HTML** aplicando o conhecimento em sistemas completos com persistência de dados.
-- 🎮 **Desenvolvedor do jogo ["Os Pecados"](https://bruno2408.itch.io/os-pecados)**, publicado no itch.io, com foco narrativo e interativo.
+- 🧠 Domínio sólido dos fundamentos de Python, C, Java, JavaScript, HTML, CSS aplicando o conhecimento em sistemas completos com persistência de dados.
+- Criador do jogo [HellboundBlackjack](https://github.com/BrunoAU/Hellbound_Blackjack.git)
 - 🥇 **Líder do projeto [Animal Quest](https://github.com/BrunoAU/Animal-Quest)**, um projeto focado na acessibilidade e desenvolvimento de memória para pessoas com síndrome de Down
 
 ## 📫 Como me encontrar
