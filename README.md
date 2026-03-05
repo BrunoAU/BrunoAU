@@ -1,3 +1,5 @@
+[🇧🇷 PT-BR](./README.md) | [🇺🇸 EN](./README.en.md)
+
 # Brunoaugusto
 
 # 👋 Olá! Eu sou Bruno Augusto da Rocha Leite Filho
