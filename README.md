@@ -21,7 +21,7 @@ O curso cobriu:
 - Práticas avançadas e limites da IA no desenvolvimento
 
 ## 🚀 Destaques
-- 🎮 **Líder e criador do jogo [Hellbound Blackjack](https://github.com/BrunoAU/Hellbound_Blackjack)** — Jogo em C/Raylib, com foco em UI, estado de jogo e polish.
+- 🎮 **Desenvolvedor do jogo [Hellbound Blackjack](https://github.com/BrunoAU/Hellbound_Blackjack)** — Jogo em C/Raylib, com foco em UI, estado de jogo e polish.
 - ♿ **Líder do projeto [Animal Quest](https://github.com/BrunoAU/Animal-Quest)** — Projeto de **acessibilidade** voltado ao estímulo de memória para pessoas com síndrome de Down.
 - 🗞️ **Líder e desenvolvedor do projeto [BRASA](https://github.com/BrunoAU/projetoBRASA)** — (projeto acadêmico inacabado) — Portal de notícias em Django (Python) com HTML, CSS e JavaScript, incluindo filtros e recomendações.
 - 📰 **Gestor e desenvolvedor do [Projeto JC](https://github.com/Gustavotorrescastro/ProjetoJC) (CESAR School)** — Projeto do período com o Jornal do Commercio como cliente acadêmico, onde múltiplos grupos propuseram e prototiparam melhorias para um portal de notícias. Atuei na gestão do projeto e no desenvolvimento em Django com testes e deploy.
