@@ -81,5 +81,5 @@ Git, GitHub, VSCode, IntelliJ, Eclipse, Arduino IDE, Jira, Trello, Kanban, docum
 - 🌐 Portfólio: [brunoaugusto.netlify.app](https://brunoaugusto.netlify.app)
 - 📧 Email CESAR School: [barlf@cesar.school](mailto:barlf@cesar.school)
 - 📧 Email pessoal: [bruno.filho1000@gmail.com](mailto:bruno.filho1000@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/bruno-augusto-376946355](https://www.linkedin.com/in/bruno-augusto-376946355/)
+- 💼 LinkedIn: [linkedin.com/in/bruno-augusto-376946355](https://www.linkedin.com/in/bruno-augusto-filho2408/)
 - 💻 GitHub: [github.com/BrunoAU](https://github.com/BrunoAU)
