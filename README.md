@@ -52,6 +52,11 @@ Projeto acadêmico desenvolvido na CESAR School com o **Jornal do Commercio** co
 
 Atuei na gestão do projeto e no desenvolvimento da solução, com foco em organização, documentação, backend em Django, testes e deploy.
 
+
+### 🤖 [Outro Eu — IA aplicada a trabalho e revisão](./portfolio/outro-eu/README.md)
+
+Estudo de caso público sobre um método de coordenação humano–IA com prompts estruturados, critérios de aceite, revisão crítica e exemplos de aplicação. Inclui [modelo reutilizável de mandato](./portfolio/outro-eu/MODELO_MANDATO.md); não expõe o Vault privado.
+
 ## 🎓 Formação complementar
 
 ### IA para Devs — CESAR School
